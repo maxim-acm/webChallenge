@@ -1,0 +1,8 @@
+.gitignore
+.idea/jsLibraryMappings.xml
+.idea/modules.xml
+.idea/webChallegne.iml
+.idea/workspace.xml
+application/
+node_modules/
+target/
